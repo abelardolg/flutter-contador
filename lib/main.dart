@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'contador.app.dart';
+import 'src/contador.app.dart';
 
 void main() {
   runApp(new ContadorApp());
